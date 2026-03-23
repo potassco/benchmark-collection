@@ -22,7 +22,8 @@ The submission process takes less than 5 minutes and happens entirely through Gi
 
 1.  **Open an Issue:** Go to the [**Issues**] tab and click **"New Issue"**.
 2.  **Choose the Template:** Select **"New Benchmark Submission"**.
-3.  **Fill what you can:** Complete the fields you have information for. If you don't know the complexity or have a DOI yet, just leave them blank!
+3.  **Fill what you can:** Complete the fields you have information for.
+	If you don't have the information (yet), just leave them blank!
 4.  **Provide the Data:**
 	* Link to a GitHub repo or DOI.
     * *or* simply attach a (not tooo big) `.zip` file directly to the issue.
@@ -47,5 +48,3 @@ While we primarily focus on **ASP-Core-2** and **clingo** compatible encodings, 
 
 **Need help?** If you have a problem you want to share but aren't sure how to format it for the collection,
 just [open a general issue] and we will be happy to assist you with the "onboarding" of your data.
-
----
