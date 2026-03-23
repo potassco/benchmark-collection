@@ -1,6 +1,3 @@
-This `README.md` is designed to be the "front door" of your repository. It explicitly lowers the psychological barrier to entry by emphasizing that **partial information is better than no information.**
-
----
 
 # Potassco Benchmark Collection
 
