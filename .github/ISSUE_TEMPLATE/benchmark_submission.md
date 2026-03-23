@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Note: Don't worry if you can't fill out every field! Just give us the essentials (Name, Type, and a way to access the files) and we can help fill in the blanks later.
+
 ### 🏷️ Benchmark Name
 > [e.g., Sudoku, Blocksworld Planning, Nurse Timetabling]
 
