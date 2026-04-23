@@ -118,9 +118,21 @@ nav:
   - Home: index.md
   - Benchmarks:
     - benchmarks/index.md
-    - Pimping Queens:
-      - benchmarks/pimping-queens/index.md
     - asprilo:
       - benchmarks/asprilo/index.md
+    - Bio-ASP:
+      - benchmarks/bio-asp/index.md
+    - Boolean Constraint Solvers:
+      - benchmarks/bool-constraint-solvers/index.md
+    - Curriculum-Based Course Timetabling:
+      - benchmarks/cbctt/index.md
+    - COOM Configuration:
+      - benchmarks/coom/index.md
+    - Multi-Agent Path Finding:
+      - benchmarks/mapf/index.md
+    - Collection of Optimization Problems:
+      - benchmarks/opt-collection/index.md
+    - Pimping Queens:
+      - benchmarks/pimping-queens/index.md
   - Contributing:
     - contributing/index.md
