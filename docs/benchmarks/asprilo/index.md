@@ -27,7 +27,7 @@ with 2 robots to large-scale warehouse layouts with dozens of robots and hundred
 * **Generator URL:**  
 [https://github.com/potassco/asprilo](https://github.com/potassco/asprilo) (Tooling & Generator)
 * **Reference:**  
-Gebser, M., Obermeier, P., Otto, T., Schaub, T., Sabuncu, O., Nguyen, V., & Son, T. C. (2018). *Experimenting with robotic intra-logistics domains*. Theory and Practice of Logic Programming, 18(3-4), 502–519. [DOI: 10.1017/S147106841800014X]
+Gebser, M., Obermeier, P., Otto, T., Schaub, T., Sabuncu, O., Nguyen, V., & Son, T. C. (2018). *Experimenting with robotic intra-logistics domains*. Theory and Practice of Logic Programming, 18(3-4), 502–519. DOI: 10.1017/S147106841800014X
 
 ### 👤 Contact
 * **Name:** Philipp Obermeier / Potassco Team

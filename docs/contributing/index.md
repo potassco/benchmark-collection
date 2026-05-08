@@ -14,7 +14,7 @@ We can help refine the metadata later.
 
 The submission process takes less than 5 minutes and happens entirely through GitHub:
 
-1.  **Open an Issue:** Go to the [**Issues**] tab and click **"New Issue"**.
+1.  **Open an Issue:** Go to the [**Issues**][issues] tab and click **"New Issue"**.
 2.  **Choose the Template:** Select **"New Benchmark Submission"**.
 3.  **Fill what you can:** Complete the fields you have information for.
 	If you don't have the information (yet), just leave them blank!
@@ -41,4 +41,6 @@ We recognize that industrial or real-world data is often sensitive. We support t
 While we primarily focus on **ASP-Core-2** and **clingo** compatible encodings, we welcome benchmarks in `aspif`, `DLV`, or even `DIMACS` formats.
 
 **Need help?** If you have a problem you want to share but aren't sure how to format it for the collection,
-just [open a general issue] and we will be happy to assist you with the "onboarding" of your data.
+just open a general issue and we will be happy to assist you with the "onboarding" of your data.
+
+[issues]: https://github.com/potassco/benchmark-collection/issues

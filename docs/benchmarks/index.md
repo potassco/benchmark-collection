@@ -19,6 +19,6 @@ The following benchmarks are currently included in the collection:
 [cbctt]: ./cbctt/index.md#curriculum-based-course-timetabling-cb-ctt
 [coom]: ./coom/index.md#coom-configuration
 [mapf]: ./mapf/index.md#conflict-free-routing-for-multi-agent-path-finding
-[opt-collection]: ./opt-collection/index.md#collection-of-benchmarks-for-optimization-algorithms-eg-large-neighbourhood-search
+[opt-collection]: ./opt-collection/index.md#collection-of-optimization-problems
 [queens]: ./pimping-queens/index.md#pimping-queens
 
