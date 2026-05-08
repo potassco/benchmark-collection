@@ -48,3 +48,15 @@ While we primarily focus on **ASP-Core-2** and **clingo** compatible encodings, 
 
 **Need help?** If you have a problem you want to share but aren't sure how to format it for the collection,
 just [open a general issue] and we will be happy to assist you with the "onboarding" of your data.
+
+---
+
+### Documentation
+
+The documentation can be accessed [here](https://potassco.org/benchmark-collection/) or build and
+hosted locally using [zensical](https://github.com/zensical/zensical).
+
+```bash
+pip install zensical
+zensical serve
+```
