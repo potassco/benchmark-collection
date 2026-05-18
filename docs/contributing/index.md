@@ -1,12 +1,6 @@
+# Contributing
 
-# Potassco Benchmark Collection
-
-Welcome to the repository for **Answer Set Programming (ASP) benchmarks**, curated by the Potassco group.
-
-Our goal is to provide solver developers and researchers with a diverse,
-high-quality suite of challenges—from classic combinatorial problems to modern industrial applications.
-
-### 🚀 Join the Collection (Low-Hurdle Submission)
+## 🚀 Join the Collection (Low-Hurdle Submission)
 
 We believe that great benchmarks often go unshared because the "cost" of formal documentation is too high.
 **We want to change that.**
@@ -16,11 +10,11 @@ We can help refine the metadata later.
 
 ---
 
-### 📥 How to Contribute
+## 📥 How to Contribute
 
 The submission process takes less than 5 minutes and happens entirely through GitHub:
 
-1.  **Open an Issue:** Go to the [**Issues**] tab and click **"New Issue"**.
+1.  **Open an Issue:** Go to the [**Issues**][issues] tab and click **"New Issue"**.
 2.  **Choose the Template:** Select **"New Benchmark Submission"**.
 3.  **Fill what you can:** Complete the fields you have information for.
 	If you don't have the information (yet), just leave them blank!
@@ -30,7 +24,7 @@ The submission process takes less than 5 minutes and happens entirely through Gi
 
 ---
 
-### 🔒 Confidentiality & Privacy
+## 🔒 Confidentiality & Privacy
 
 We recognize that industrial or real-world data is often sensitive. We support three levels of access:
 
@@ -42,21 +36,11 @@ We recognize that industrial or real-world data is often sensitive. We support t
 
 ---
 
-### 🛠 Tools & Compatibility
+## 🛠 Tools & Compatibility
 
 While we primarily focus on **ASP-Core-2** and **clingo** compatible encodings, we welcome benchmarks in `aspif`, `DLV`, or even `DIMACS` formats.
 
 **Need help?** If you have a problem you want to share but aren't sure how to format it for the collection,
-just [open a general issue] and we will be happy to assist you with the "onboarding" of your data.
+just open a general issue and we will be happy to assist you with the "onboarding" of your data.
 
----
-
-### Documentation
-
-The documentation can be accessed [here](https://potassco.org/benchmark-collection/) or build and
-hosted locally using [zensical](https://github.com/zensical/zensical).
-
-```bash
-pip install zensical
-zensical serve
-```
+[issues]: https://github.com/potassco/benchmark-collection/issues
