@@ -3,12 +3,12 @@
 ## :material-file-document-outline: Description
 A benchmark framework to study typical scenarios in intra-logistics and warehouse automation.
 It models complex multi-agent pathfinding (MAPF) and task assignment problems where mobile
-robots move shelves to picking stations [^1].  
+robots move shelves to picking stations.  
 The `Scripts` directory contains scripts to generate structured and random benchmark sets from
 the A,B,C and M domain using the asprilo generator (see below).
 
 ## :material-play-circle-outline: Usage
-All asprilo tools can be installed from the asprilo [repository](github.com/potassco/asprilo).  
+All asprilo tools can be installed from the asprilo [repository](https://github.com/potassco/asprilo).  
 The tools are also available via the potassco conda channel, but these are most likely outdated.
 To install the tools simply use or create a conda environment with python=>3.9.
 ```bash
@@ -28,7 +28,7 @@ cd asprilo/visualizer
 pip install .
 viz -h
 ```
-A detailed description on how to use these tools can be found [here](asprilo.github.io)
+A detailed description on how to use these tools can be found [here](https://asprilo.github.io)
 
 ### :material-flask-outline: Examples
 Structured (real-world-like) instance:
@@ -80,7 +80,7 @@ The encodings are in three directories with regard to their problem domains:
 - `./m` contains encodings for asprilo domain M
 - `./control` contains encodings for supplementary features such as task assignment, highway constrains, etc. for all (some) asprilo domains
 
-A detailed description of the encodings and their naming conventions can be found [here](github.com/potassco/asprilo-encodings)
+A detailed description of the encodings and their naming conventions can be found [here](https://github.com/potassco/asprilo-encodings)
 
 It is recommended to use encodings with the `encoding*` prefix, which provide a shorthand to call
 all necessary encodings. A time horizon should also be set, e.g.:
