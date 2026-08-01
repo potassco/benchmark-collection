@@ -53,7 +53,7 @@ just [open a general issue] and we will be happy to assist you with the "onboard
 
 ### Documentation
 
-The documentation can be accessed [here](https://potassco.org/benchmark-collection/) or build and
+The documentation can be accessed [here](https://docs.potassco.org/benchmark-collection/) or build and
 hosted locally using [zensical](https://github.com/zensical/zensical).
 
 ```bash

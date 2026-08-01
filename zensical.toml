@@ -86,7 +86,7 @@ nav = [
     {"COOM Configuration" = "benchmarks/coom/index.md"},
     {"Multi-Agent Path Finding" = "benchmarks/mapf/index.md"},
     {"Collection of Optimization Problems" = "benchmarks/opt-collection/index.md"},
-    {"Pimping Queens" = "benchmarks/pimping-queens/index.md"},
+    {"N-Queens" = "benchmarks/n-queens/index.md"},
   ]},
   {"Contributing" = "contributing/index.md"},
 ]
