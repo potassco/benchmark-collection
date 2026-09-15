@@ -84,6 +84,7 @@ nav = [
     {"Boolean Constraint Solvers" = "benchmarks/bool-constraint-solvers/index.md"},
     {"Curriculum-Based Course Timetabling" = "benchmarks/cbctt/index.md"},
     {"COOM Configuration" = "benchmarks/coom/index.md"},
+    {"Flatland" = "benchmarks/flatland/index.md"},
     {"Multi-Agent Path Finding" = "benchmarks/mapf/index.md"},
     {"Collection of Optimization Problems" = "benchmarks/opt-collection/index.md"},
     {"N-Queens" = "benchmarks/n-queens/index.md"},
