@@ -9,12 +9,24 @@ competition, but they do not currently account for malfunctions or speed.
 This benchmark set contains 15 difficulty classes (Test_00 to Test_14), each with 10 levels,
 as well as a script for splitting these levels into multiple environment instances.
 
-!TODO example
+```
+python split.py <dir> <instance|all>
+```
+
+Where `dir` is the directory containing the base environment instances and `instance` the
+instance file to split, or "all" to split all instances in the directory.
+
+Example call:
+```
+python split.py Test_00 Level_1
+```
+
+> **__NOTE:__** clingo Python API needs to be installed for the generator to work.
 
 The encodings are not included, but they can be found [here](https://github.com/potassco/flaspland-encodings),
 together with instructions on how to use them. The repository also includes a
 [guide](https://github.com/potassco/flaspland-encodings/tree/main/benchmarking) for
-using them with the benchmark tool.
+using flatland with the benchmark tool.
 
 New instances can be generated as described in the *Creating environments* section
 [here](https://github.com/krr-up/flatland).
