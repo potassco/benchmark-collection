@@ -4,7 +4,9 @@
 A collection of ASP benchmarks from systems biology and bioinformatics, covering reasoning on biological networks,
 optimization of metabolic models, and experiment design. The encodings solve real-world biological reasoning and
 optimization tasks using Answer Set Programming.
+
 The benchmarks include instances for the following tools:
+
 - [CASPO](https://github.com/bioasp/caspo)
 - [MENECO](https://github.com/bioasp/meneco)
 - [EXDESI](https://github.com/bioasp/exdesi)
