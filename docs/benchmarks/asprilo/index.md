@@ -6,6 +6,7 @@ It models complex multi-agent pathfinding (MAPF) and task assignment problems wh
 robots move shelves to picking stations.  
 The `Scripts` directory contains scripts to generate structured and random benchmark sets from
 the A,B,C and M domain using the asprilo generator (see below).
+The domain specifications can be found [here](https://docs.potassco.org/asprilo/specification/).
 
 ## :material-play-circle-outline: Usage
 All asprilo tools can be installed from the asprilo [repository](https://github.com/potassco/asprilo).  
@@ -28,7 +29,7 @@ cd asprilo/visualizer
 pip install .
 viz -h
 ```
-A detailed description on how to use these tools can be found [here](https://asprilo.github.io)
+A detailed description on how to use these tools can be found [here](https://docs.potassco.org/asprilo/)
 
 ### :material-flask-outline: Examples
 Structured (real-world-like) instance:
