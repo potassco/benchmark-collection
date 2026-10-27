@@ -23,8 +23,8 @@ aspif format as described [here](https://github.com/potassco/clasp/pull/118#issu
 * **Repository/ZIP:** [spack-benchmark](https://github.com/spack/spack-benchmark)
 
 ### :material-card-account-mail-outline: Contact
-* **Name:** BioASP contributors
-* **Email:** See GitHub repository contacts / maintainers
+* **Name:** Benjamin Kaufmann
+* **Email:** kaufmann@cs.uni-potsdam.de
 
 ## :material-download-outline: Download
 

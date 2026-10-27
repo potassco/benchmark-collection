@@ -22,8 +22,8 @@ clasp-3.4.x/clingo-5.8.x. They can be converted to the old (pre 2022) format via
 * **Repository/ZIP:** [google drive](https://drive.google.com/file/d/1pKuQkuTZr7CO3GXmOGRvrMeLTOaw9Fl6/view?usp=drive_link)
 
 ### :material-card-account-mail-outline: Contact
-* **Name:** BioASP contributors
-* **Email:** See GitHub repository contacts / maintainers
+* **Name:** Benjamin Kaufmann
+* **Email:** kaufmann@cs.uni-potsdam.de
 
 ## :material-download-outline: Download
 
