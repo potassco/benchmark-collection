@@ -12,7 +12,9 @@ The following benchmarks are currently included in the collection:
 | [**Conflict-free Routing for Multi-Agent Path Finding**][mapf] | Optimization, Multi-shot | A benchmark suite for multi-agent path finding (MAPF) focusing on alternative approaches to routing and scheduling in ASP. |
 | [**Collection of Optimization Problems**][opt-collection] | Optimization, Multi-shot | Social Golfer (SG), Shift Design (SD), Sudoku Puzzle Generation (SPG), Traveling Salesman Problem (TSP) and Weighted Strategic Companies (WSC). |
 | **[Flatland][flatland]** | Uncertain | A collection of Flatland environments of varying difficulty. |
+| **[Weighted MaxSAT][maxsat]** | Optimization | A subset of the weighted instances from the exact track of the MaxSAT Evaluation 2023. |
 | **[N-Queens][queens]** | Decision | Five encodings of the n-queens problem, reflecting encoding improvements |
+| **[Spack-suite][spack]** | Optimization | A small benchmark set from Spack. |
 
 [asprilo]: ./asprilo/index.md#asprilo-robotic-intra-logistics-benchmark-suite
 [bio-asp]: ./bio-asp/index.md#bioasp-life-sciences-reasoning-benchmarks
@@ -21,6 +23,8 @@ The following benchmarks are currently included in the collection:
 [coom]: ./coom/index.md#coom-configuration
 [flatland]: ./flatland/index.md#flatland-environments
 [mapf]: ./mapf/index.md#conflict-free-routing-for-multi-agent-path-finding
+[maxsat]: ./max-sat/index.md#weighted-maxsat
 [opt-collection]: ./opt-collection/index.md#collection-of-optimization-problems
 [queens]: ./n-queens/index.md#n-queens
+[spack]: ./spack/index.md#spack-suite
 
