@@ -37,4 +37,4 @@ Hoos, H.H., Kaufmann, B., Schaub, T., Schneider, M. (2013). Robust Benchmark Set
 
 ## :material-download-outline: Download
 
-[BoolSuite (full)](https://stbenchmarkprosc01.blob.core.windows.net/public/bool_full.tar.gz)
+[BoolSuite_full](https://stbenchmarkprosc01.blob.core.windows.net/public/bool_full.tar.gz) (~720MB)

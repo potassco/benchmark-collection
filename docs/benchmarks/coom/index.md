@@ -104,4 +104,4 @@ The corresponding clingo encoding can be found in the [COOM Suite](https://githu
 
 ## :material-download-outline: Download
 
-[COOM (full)](https://stbenchmarkprosc01.blob.core.windows.net/public/coom_full.tar.gz)
+[COOM](https://stbenchmarkprosc01.blob.core.windows.net/public/coom.tar.gz) (~9.8MB)

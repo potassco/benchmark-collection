@@ -60,4 +60,4 @@ doi:10.1007/s10479-018-2757-7
 
 ## :material-download-outline: Download
 
-[CB-CTT (full)](https://stbenchmarkprosc01.blob.core.windows.net/public/cbctt_full.tar.gz)
+[CB-CTT](https://stbenchmarkprosc01.blob.core.windows.net/public/cbctt.tar.gz) (~2MB)

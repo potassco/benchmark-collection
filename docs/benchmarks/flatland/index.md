@@ -73,4 +73,4 @@ This requires installing flatland-rl.
 
 ## :material-download-outline: Download
 
-[Flatland (full)](https://stbenchmarkprosc01.blob.core.windows.net/public/flatland_full.tar.gz)
+[Flatland](https://stbenchmarkprosc01.blob.core.windows.net/public/flatland.tar.gz) (~23MB)

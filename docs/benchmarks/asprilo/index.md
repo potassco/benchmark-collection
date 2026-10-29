@@ -127,4 +127,4 @@ The benchmark is designed to be highly modular, supporting various sub-problems 
 
 ## :material-download-outline: Download
 
-[asprilo](https://stbenchmarkprosc01.blob.core.windows.net/public/asprilo.tar.gz)
+[asprilo](https://stbenchmarkprosc01.blob.core.windows.net/public/asprilo.tar.gz) (~16KB)

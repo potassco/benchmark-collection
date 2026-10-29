@@ -27,4 +27,4 @@ clasp-3.4.x/clingo-5.8.x. They can be converted to the old (pre 2022) format via
 
 ## :material-download-outline: Download
 
-[wMaxSAT (full)](https://stbenchmarkprosc01.blob.core.windows.net/public/wmaxsat_full.tar.gz)
+[wMaxSAT_full](https://stbenchmarkprosc01.blob.core.windows.net/public/wmaxsat_full.tar.gz) (~2.8GB)
