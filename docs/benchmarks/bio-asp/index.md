@@ -62,4 +62,4 @@ The benchmarks include instances for the following tools:
 
 ## :material-download-outline: Download
 
-In the future you will be able to download the benchmark set here.
+[BioASP (full)](https://stbenchmarkprosc01.blob.core.windows.net/public/bioasp_full.tar.gz)

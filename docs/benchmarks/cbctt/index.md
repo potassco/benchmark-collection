@@ -60,4 +60,4 @@ doi:10.1007/s10479-018-2757-7
 
 ## :material-download-outline: Download
 
-In the future you will be able to download the benchmark set here.
+[CB-CTT (full)](https://stbenchmarkprosc01.blob.core.windows.net/public/cbctt_full.tar.gz)

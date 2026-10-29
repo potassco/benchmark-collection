@@ -43,4 +43,4 @@ Solver tuning may advance performance
 
 ## :material-download-outline: Download
 
-In the future you will be able to download the benchmark set here.
+[N-Queens](https://stbenchmarkprosc01.blob.core.windows.net/public/nqueens.tar.gz)

@@ -28,4 +28,4 @@ aspif format as described [here](https://github.com/potassco/clasp/pull/118#issu
 
 ## :material-download-outline: Download
 
-In the future you will be able to download the benchmark set here.
+[SpackSuite (full)](https://stbenchmarkprosc01.blob.core.windows.net/public/spack_suite_full.tar.gz)
