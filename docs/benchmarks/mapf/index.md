@@ -93,4 +93,4 @@ represent ordering and scheduling decisions without explicitly enumerating every
 
 ## :material-download-outline: Download
 
-In the future you will be able to download the benchmark set here.
+[MAPF](https://stbenchmarkprosc01.blob.core.windows.net/public/mapf.tar.gz) (~223KB)

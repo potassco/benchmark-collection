@@ -53,4 +53,4 @@ Eiter, T., Geibinger, T., Ruiz, N.H., et al.: ALASPO: An Adaptive Large-Neighbou
 
 ## :material-download-outline: Download
 
-In the future you will be able to download the benchmark set here.
+[OptCollection](https://stbenchmarkprosc01.blob.core.windows.net/public/opt_col.tar.gz) (~2.7MB)
