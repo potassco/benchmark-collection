@@ -87,7 +87,9 @@ nav = [
     {"Flatland" = "benchmarks/flatland/index.md"},
     {"Multi-Agent Path Finding" = "benchmarks/mapf/index.md"},
     {"Collection of Optimization Problems" = "benchmarks/opt-collection/index.md"},
+    {"Weighted MaxSAT" = "benchmarks/max-sat/index.md"},
     {"N-Queens" = "benchmarks/n-queens/index.md"},
+    {"Spack-suite" = "benchmarks/spack/index.md"},
   ]},
   {"Contributing" = "contributing/index.md"},
 ]
